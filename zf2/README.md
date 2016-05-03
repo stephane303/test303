@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+ZendSkeletonApplication1
 =======================
 
 Introduction
